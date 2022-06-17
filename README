@@ -1,0 +1,28 @@
+Building Environments:  Windows, Linux and MacOS
+
+Building Tools:
+IDE: Visual Studio Code, https://code.visualstudio.com/
+Version Control: Git, Github,  <-- Personal email address
+anaconda/miniconda
+Google Remote Desk
+
+Building/Coding Language:
+Python or C
+
+Basic coding techniques
+
+Fundamentals.  
+Sorting Algorithms
+Final goal, build a discord bot
+
+Phase I: Coding Basic
+devOp fundamentals: IDE, Git, Github
+Python basics: number, string, list, sort algorithms
+
+Phase II: Build Discord Bots with Google Home
+Python basics: Function, Class, Module and Package
+Send a message to and from Discord channel
+Connect with Google Home services
+Connect Google Home with Discord channel
+
+Phase III: Build AI Discord Bots

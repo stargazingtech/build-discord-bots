@@ -3,3 +3,4 @@ def gcd(a, b):
     while a != 0:
         a, b = b%a, a    # parallel assignment
     return b
+

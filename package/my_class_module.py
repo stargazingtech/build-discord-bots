@@ -14,3 +14,17 @@ class Stack:
 
     def empty(self):
         return len(self.items) == 0    # Boolean result
+
+class Sorts:
+    def __init__(self, unsorted):
+        self.items = unsorted
+
+    def initialize_sorted( self, n, x ):
+        self.items[n] = x
+
+    def selection_sort(self):
+
+        for idx1 in range( len(self.items) ):
+
+            for idx2 in range( idx1, len(self.items) ):
+                  
